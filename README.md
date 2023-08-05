@@ -1,5 +1,7 @@
 # WorkCenter
 
+![Work Center](WorkCenter.png)
+
 Script Center is a simple GUI application that allows you to browse, edit, save, and execute script files from various programming languages. It supports Python (.py), Shell (.sh), and PowerShell (.ps1) script files. The application provides a text editor to modify the script contents and a combobox to select and execute loaded scripts.
 
 ## Features
