@@ -66,3 +66,29 @@ Script Center supports the execution of Python (.py), Shell (.sh), and PowerShel
 - If the script execution encounters any errors, the error message will be displayed in the output text widget.
 
 Enjoy using Script Center for managing and running your scripts efficiently!
+
+# ReconCenter Class - Nmap Scan GUI
+
+=================================
+
+The `ReconCenter` class is a graphical user interface (GUI) for performing Nmap scans. Nmap is a powerful network scanning tool used for exploration and security auditing. This class allows users to input scan parameters and initiate different types of Nmap scans through the GUI.
+
+## Getting Started
+
+To use the ReconCenter class, follow these steps:
+
+1.  Ensure you have Python installed on your system.
+2.  Install the required dependencies (e.g., `tkinter`).
+3.  Copy the `ReconCenter` class into your project or script.
+
+## Prerequisites
+
+The `ReconCenter` class relies on `tkinter`, which is a standard Python library for creating graphical user interfaces. Make sure you have it installed before using the class.
+
+## Usage
+
+1.  Import the necessary libraries, including `tkinter`.
+2.  Create an instance of the `ReconCenter` class.
+3.  Run the Tkinter event loop to display the GUI.
+4.  Use the provided input box to enter the desired scan parameters.
+5.  Click on one of the scan type buttons to initiate the Nmap scan.
