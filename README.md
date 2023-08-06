@@ -71,7 +71,6 @@ Enjoy using Script Center for managing and running your scripts efficiently!
 
 # ReconCenter Class - Nmap Scan GUI
 
-=================================
 
 The `ReconCenter` class is a graphical user interface (GUI) for performing Nmap scans. Nmap is a powerful network scanning tool used for exploration and security auditing. This class allows users to input scan parameters and initiate different types of Nmap scans through the GUI.
 
