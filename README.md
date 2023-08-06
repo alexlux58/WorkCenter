@@ -26,11 +26,7 @@ To run this application, ensure you have the following:
 
 3.  Execute the following command to start the Script Center application:
 
-Copy code
-
 `python script_center.py`
-
-Save to grepper
 
 1.  The application window will open, allowing you to perform various actions.
 
@@ -70,7 +66,6 @@ Script Center supports the execution of Python (.py), Shell (.sh), and PowerShel
 Enjoy using Script Center for managing and running your scripts efficiently!
 
 # ReconCenter Class - Nmap Scan GUI
-
 
 The `ReconCenter` class is a graphical user interface (GUI) for performing Nmap scans. Nmap is a powerful network scanning tool used for exploration and security auditing. This class allows users to input scan parameters and initiate different types of Nmap scans through the GUI.
 
